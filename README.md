@@ -1,0 +1,1 @@
+# Homebrew cask for Co-OPS AI
